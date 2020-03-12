@@ -1,0 +1,19 @@
+{
+  "name": "page-transition",
+  "version": "1.0.0",
+  "description": "A page-transition test using Parcel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seiji",
+  "license": "MIT",
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "sass": "^1.26.3"
+  },
+  "dependencies": {
+    "@dogstudio/highway": "^2.1.3",
+    "gsap": "^3.2.4"
+  }
+}
